@@ -13,5 +13,8 @@
     "e-commerce"
   ],
   "author": "Glecinilson Braga da Silva",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.2.0"
+  }
 }
